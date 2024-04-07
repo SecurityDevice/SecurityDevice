@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SecurityDevice
-- 📫 How to reach me thrue discord: ```github_securitydevice```
+- 📫 How to reach me? Discord: ```github_securitydevice```
 - ⚡ Fun fact: I can program
 
 <!---
